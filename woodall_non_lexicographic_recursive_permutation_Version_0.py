@@ -48,6 +48,6 @@ print("Written by: SMIDA Houcine L. (2025)")
 # ================================================================
 # PERMALL() generates and displays all permutations according to
 # the Woodall (1977) non-lexicographic recursive algorithm.
-Tab = [4, 3, 2, 1]
+Tab = ['D', 'C', 'B', 'A']
 print("\nNon-lexicographic permutations:")
 PERMALL(Tab, len(Tab))
